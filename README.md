@@ -11,7 +11,7 @@ The system employs an **ARIMA-X** probabilistic model to forecast outage probabi
 ## 🛠️ Tech Stack
 * **Backend:** Python 3.10+ (Pandas, Statsmodels, NumPy)
 * **Frontend:** HTML5, JavaScript (Chart.js), CSS3
-* **Model:** SARIMA $(2, 1, 0)(1, 1, 0)_{24}$
+* **Model:** SARIMA
 
 ## 📂 Repository Structure
 * `analysis.ipynb`: Jupyter Notebook containing Seasonal Decomposition, ACF/PACF plots, and model validation.
