@@ -1,0 +1,19 @@
+{
+  "salon": [
+    "hair_dryer",
+    "tv",
+    "fan",
+    "lighting",
+    "ac"
+  ],
+  "cold_room": [
+    "fridge",
+    "freezer",
+    "lighting"
+  ],
+  "tailor": [
+    "sewing_machine",
+    "fan",
+    "lighting"
+  ]
+}

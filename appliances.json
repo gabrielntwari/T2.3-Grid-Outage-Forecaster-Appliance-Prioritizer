@@ -1,0 +1,72 @@
+[
+  {
+    "name": "fridge",
+    "category": "critical",
+    "watts_avg": 300,
+    "start_up_spike_w": 600,
+    "revenue_if_running_rwf_per_h": 2000
+  },
+  {
+    "name": "hair_dryer",
+    "category": "critical",
+    "watts_avg": 1500,
+    "start_up_spike_w": 2000,
+    "revenue_if_running_rwf_per_h": 3000
+  },
+  {
+    "name": "sewing_machine",
+    "category": "critical",
+    "watts_avg": 500,
+    "start_up_spike_w": 800,
+    "revenue_if_running_rwf_per_h": 2500
+  },
+  {
+    "name": "freezer",
+    "category": "critical",
+    "watts_avg": 400,
+    "start_up_spike_w": 700,
+    "revenue_if_running_rwf_per_h": 2200
+  },
+  {
+    "name": "tv",
+    "category": "comfort",
+    "watts_avg": 200,
+    "start_up_spike_w": 300,
+    "revenue_if_running_rwf_per_h": 500
+  },
+  {
+    "name": "fan",
+    "category": "comfort",
+    "watts_avg": 100,
+    "start_up_spike_w": 150,
+    "revenue_if_running_rwf_per_h": 300
+  },
+  {
+    "name": "lighting",
+    "category": "critical",
+    "watts_avg": 150,
+    "start_up_spike_w": 200,
+    "revenue_if_running_rwf_per_h": 1000
+  },
+  {
+    "name": "ac",
+    "category": "luxury",
+    "watts_avg": 2000,
+    "start_up_spike_w": 3000,
+    "revenue_if_running_rwf_per_h": 1000
+  },
+  {
+    "name": "sound_system",
+    "category": "luxury",
+    "watts_avg": 500,
+    "start_up_spike_w": 800,
+    "revenue_if_running_rwf_per_h": 400
+  },
+  {
+    "name": "water_heater",
+    "category": "luxury",
+    "watts_avg": 1800,
+    "start_up_spike_w": 2500,
+    "revenue_if_running_rwf_per_h": 700
+  }
+]
